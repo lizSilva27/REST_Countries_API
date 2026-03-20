@@ -1,7 +1,7 @@
 .back-button {
   position: absolute;
-  top: 135px;
-  left: 80px;
+  top: 11rem;
+  left: 10rem;
   box-shadow: 3px 4px 12px var(--Box_Shadow);
   width: 135px;
   height: 40px;
@@ -12,15 +12,15 @@
   color: var(--Color_Text);
   border-radius: 5px;
 
-  @media screen and (max-width: 840px) {
-    top: 100px;
-    left: 30px;
+  @media screen and (max-width: 999px) {
+    top: 8rem;
+    left: 2rem;
   }
 }
 
 .detailsCard {
   width: 100%;
-  margin-top: 80px;
+  margin-top: 120px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;

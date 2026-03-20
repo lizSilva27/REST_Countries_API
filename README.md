@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/lizSilva27/REST_Countries_API
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://restcountriesapiliz.netlify.app/
 
 ## My process
 
