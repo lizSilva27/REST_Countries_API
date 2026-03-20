@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+:root {
+  --Color_Text: rgb(0, 0, 0);
+  --Color_Background: rgb(245, 245, 245);
+  --Boxes_Elements: hsl(0, 100%, 100%);
+  --fontPrimary: 'Nunito Sans', sans-serif, 'Montserrat', sans-serif;
+  --Box_Shadow: hsl(0, 0%, 50%);
+}
+
+[data-theme='dark'] {
+  --Color_Text: rgb(255, 255, 255);
+  --Boxes_Elements: rgb(43, 57, 69); //Inputs o cajas
+  --Color_Background: rgb(32, 44, 55); //Background
+}
